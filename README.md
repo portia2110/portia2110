@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Portia! 
-- 👀 My interests include Cybersecurity 
-- 🌱 I’m currently learning beginner programming languages (Python, MySQL, etc.) 
-- 💞️ I’m looking to collaborate on anything related to WGU classes / Security. 
-- ⚡ Fun fact: I am still thinking on one ...
+- 🤓 My interests include Ethical Hacking, Penetration Testing, and Security Implementations. 
+- 💻 I’m currently learning beginner programming languages  
+- 💞️ I’m looking to collaborate on anything related to Software Development and Security. 
+- ☕ Fun fact: I have an incredibly extensive tea collection...
 
 <!---
 portia2110/portia2110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
